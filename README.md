@@ -1,22 +1,26 @@
-## Hi there 👋
+# Venkata
 
-I'm Venkata, I'm currently a freshman studying CS at Purdue University.
+CS @ **Purdue University** | Machine Learning & Backend Development
 
-I'm heavily interested in Machine Learning (PyTorch & ScikitLearn) and love working on the backend (Python, JavaScript, TypeScript) part of apps.
+---
 
-I have experience in compressing Transformer Models and web scraping. I'm currently fiddling with World Models and working on a few side projects. 
+### Overview
 
-<!--
-**venkuzz/venkuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Focus:** Machine Learning (Model Compression, World Models) and Backend Engineering.
+- **Current Work:** Route 52 (an app for finding cheap groceries) and fiddling with World Models.
+- **Background:** Experience in Transformer optimization, web scraping, and building scalable backends.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- **Languages:** Python, TypeScript, JavaScript, Java, C++
+- **ML & Data:** PyTorch, scikit-learn, NumPy
+- **Backend & Storage:** Node.js, Express, Supabase, PostgreSQL
+
+---
+
+### Contact
+
+- **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- **Instagram:** [instagram.com/YOUR_INSTAGRAM_USERNAME](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
