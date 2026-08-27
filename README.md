@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Venkata, I'm currently a freshman studying CS at Purdue University.
+
+I'm heavily interested in Machine Learning (PyTorch & ScikitLearn) and love working on the backend (Python, JavaScript, TypeScript) part of apps.
+
+I have experience in compressing Transformer Models and web scraping. I'm currently fiddling with World Models and working on a few side projects. 
+
 <!--
 **venkuzz/venkuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
