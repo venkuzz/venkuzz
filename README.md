@@ -14,5 +14,5 @@ CS @ **Purdue University** | Machine Learning & Backend Development
 
 ### Contact
 
-- **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/venkata-sai-gummidi)
-- **Instagram:** [instagram.com/YOUR_INSTAGRAM_USERNAME](https://instagram.com/vsasakg)
+- **LinkedIn:** [linkedin.com/in/venkata-sai-gummidi](https://linkedin.com/in/venkata-sai-gummidi)
+- **Instagram:** [instagram.com/vsasakg](https://instagram.com/vsasakg)
